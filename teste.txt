@@ -1,3 +1,5 @@
-git merge com a branch aulaTeste
+aula de mudança de branch.
 
-comando para unir conteudo
+branch aulaTeste
+
+git merge branch aulaTeste
