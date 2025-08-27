@@ -3,3 +3,5 @@ envio
 aula de mudança de branch.
 
 branch aulaTeste
+
+git merge branch aulaTeste
