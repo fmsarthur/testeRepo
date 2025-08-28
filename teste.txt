@@ -5,3 +5,5 @@ aula de mudança de branch.
 branch aulaTesteasdasda
 
 git merge branches
+
+git tags
