@@ -93,14 +93,6 @@ public class HelloWord{
 
 ***
 
-@fmsarthur
 
 :musical_note:
 
-:hotel:
-
-:hotel:
-
-:hotel:
-
-:hotel:
