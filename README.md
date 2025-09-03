@@ -93,6 +93,51 @@ public class HelloWord{
 
 ***
 
-
 :musical_note:
+
+### Skills
+
+
+mongoDB
+
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+***
+
+<details>
+  <summary>Ver mais</summary>
+  <br>
+  texto puro.
+
+    texto na caixa.
+
+  `texto exemplo`
+
+  ```java
+    System.out.prinln("Olá mundo!");
+  ```
+</details>
+
+***
+
+```mermaid
+graph TD;
+	A[Início] --> B[Passo 1];
+	B --> C{Decisão};
+	C -->|Sim| D[Passo 2];
+	C -->|Não| E[Fim];
+```
+
+
+
+[![google](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://google.com)
+
+
+
+
+
+
+
+
+
 
